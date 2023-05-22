@@ -1,0 +1,15 @@
+D:\Development\Eduvos\C-sharp Exercises\Convert_Age_To_Days\CSDaysToAge\CSDaysToAge\bin\Debug\net6.0\CSDaysToAge.exe
+D:\Development\Eduvos\C-sharp Exercises\Convert_Age_To_Days\CSDaysToAge\CSDaysToAge\bin\Debug\net6.0\CSDaysToAge.deps.json
+D:\Development\Eduvos\C-sharp Exercises\Convert_Age_To_Days\CSDaysToAge\CSDaysToAge\bin\Debug\net6.0\CSDaysToAge.runtimeconfig.json
+D:\Development\Eduvos\C-sharp Exercises\Convert_Age_To_Days\CSDaysToAge\CSDaysToAge\bin\Debug\net6.0\CSDaysToAge.dll
+D:\Development\Eduvos\C-sharp Exercises\Convert_Age_To_Days\CSDaysToAge\CSDaysToAge\bin\Debug\net6.0\CSDaysToAge.pdb
+D:\Development\Eduvos\C-sharp Exercises\Convert_Age_To_Days\CSDaysToAge\CSDaysToAge\obj\Debug\net6.0\CSDaysToAge.csproj.AssemblyReference.cache
+D:\Development\Eduvos\C-sharp Exercises\Convert_Age_To_Days\CSDaysToAge\CSDaysToAge\obj\Debug\net6.0\CSDaysToAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Eduvos\C-sharp Exercises\Convert_Age_To_Days\CSDaysToAge\CSDaysToAge\obj\Debug\net6.0\CSDaysToAge.AssemblyInfoInputs.cache
+D:\Development\Eduvos\C-sharp Exercises\Convert_Age_To_Days\CSDaysToAge\CSDaysToAge\obj\Debug\net6.0\CSDaysToAge.AssemblyInfo.cs
+D:\Development\Eduvos\C-sharp Exercises\Convert_Age_To_Days\CSDaysToAge\CSDaysToAge\obj\Debug\net6.0\CSDaysToAge.csproj.CoreCompileInputs.cache
+D:\Development\Eduvos\C-sharp Exercises\Convert_Age_To_Days\CSDaysToAge\CSDaysToAge\obj\Debug\net6.0\CSDaysToAge.dll
+D:\Development\Eduvos\C-sharp Exercises\Convert_Age_To_Days\CSDaysToAge\CSDaysToAge\obj\Debug\net6.0\refint\CSDaysToAge.dll
+D:\Development\Eduvos\C-sharp Exercises\Convert_Age_To_Days\CSDaysToAge\CSDaysToAge\obj\Debug\net6.0\CSDaysToAge.pdb
+D:\Development\Eduvos\C-sharp Exercises\Convert_Age_To_Days\CSDaysToAge\CSDaysToAge\obj\Debug\net6.0\CSDaysToAge.genruntimeconfig.cache
+D:\Development\Eduvos\C-sharp Exercises\Convert_Age_To_Days\CSDaysToAge\CSDaysToAge\obj\Debug\net6.0\ref\CSDaysToAge.dll
