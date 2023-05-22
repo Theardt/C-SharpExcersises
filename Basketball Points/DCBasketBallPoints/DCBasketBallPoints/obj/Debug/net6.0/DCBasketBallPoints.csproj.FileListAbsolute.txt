@@ -1,0 +1,15 @@
+D:\Development\Eduvos\C-sharp Exercises\Basketball Points\DCBasketBallPoints\DCBasketBallPoints\bin\Debug\net6.0\DCBasketBallPoints.exe
+D:\Development\Eduvos\C-sharp Exercises\Basketball Points\DCBasketBallPoints\DCBasketBallPoints\bin\Debug\net6.0\DCBasketBallPoints.deps.json
+D:\Development\Eduvos\C-sharp Exercises\Basketball Points\DCBasketBallPoints\DCBasketBallPoints\bin\Debug\net6.0\DCBasketBallPoints.runtimeconfig.json
+D:\Development\Eduvos\C-sharp Exercises\Basketball Points\DCBasketBallPoints\DCBasketBallPoints\bin\Debug\net6.0\DCBasketBallPoints.dll
+D:\Development\Eduvos\C-sharp Exercises\Basketball Points\DCBasketBallPoints\DCBasketBallPoints\bin\Debug\net6.0\DCBasketBallPoints.pdb
+D:\Development\Eduvos\C-sharp Exercises\Basketball Points\DCBasketBallPoints\DCBasketBallPoints\obj\Debug\net6.0\DCBasketBallPoints.csproj.AssemblyReference.cache
+D:\Development\Eduvos\C-sharp Exercises\Basketball Points\DCBasketBallPoints\DCBasketBallPoints\obj\Debug\net6.0\DCBasketBallPoints.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Eduvos\C-sharp Exercises\Basketball Points\DCBasketBallPoints\DCBasketBallPoints\obj\Debug\net6.0\DCBasketBallPoints.AssemblyInfoInputs.cache
+D:\Development\Eduvos\C-sharp Exercises\Basketball Points\DCBasketBallPoints\DCBasketBallPoints\obj\Debug\net6.0\DCBasketBallPoints.AssemblyInfo.cs
+D:\Development\Eduvos\C-sharp Exercises\Basketball Points\DCBasketBallPoints\DCBasketBallPoints\obj\Debug\net6.0\DCBasketBallPoints.csproj.CoreCompileInputs.cache
+D:\Development\Eduvos\C-sharp Exercises\Basketball Points\DCBasketBallPoints\DCBasketBallPoints\obj\Debug\net6.0\DCBasketBallPoints.dll
+D:\Development\Eduvos\C-sharp Exercises\Basketball Points\DCBasketBallPoints\DCBasketBallPoints\obj\Debug\net6.0\refint\DCBasketBallPoints.dll
+D:\Development\Eduvos\C-sharp Exercises\Basketball Points\DCBasketBallPoints\DCBasketBallPoints\obj\Debug\net6.0\DCBasketBallPoints.pdb
+D:\Development\Eduvos\C-sharp Exercises\Basketball Points\DCBasketBallPoints\DCBasketBallPoints\obj\Debug\net6.0\DCBasketBallPoints.genruntimeconfig.cache
+D:\Development\Eduvos\C-sharp Exercises\Basketball Points\DCBasketBallPoints\DCBasketBallPoints\obj\Debug\net6.0\ref\DCBasketBallPoints.dll

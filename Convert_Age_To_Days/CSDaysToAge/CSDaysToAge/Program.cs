@@ -1,8 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System;
-using System.IO;
-using System.Security.Cryptography.X509Certificates;
-
+﻿
 class AgetoDays
 {
     private static readonly int age = 65;
