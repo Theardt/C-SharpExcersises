@@ -1,28 +1,28 @@
 ﻿
 public abstract class DCBasketBallPoints
 {
-    private static int[] pointsarray = new int[2];
-    private static int twoPointers;
-    private static int threePointers;
+    private static readonly int[] PointsArray = new int[2];
+    private static int _twoPointers;
+    private static int _threePointers;
     public static void Main()
     {
 
         Console.WriteLine("How much two pointers did your team score?");
-        twoPointers = Convert.ToInt32(Console.ReadLine());
-        pointsarray[0] = twoPointers;
+        _twoPointers = Convert.ToInt32(Console.ReadLine());
+        PointsArray[0] = _twoPointers;
 
 
 
         Console.WriteLine("How much three pointers did your team score?");
-        threePointers = Convert.ToInt32(Console.ReadLine());
-        pointsarray[1] = threePointers;
+        _threePointers = Convert.ToInt32(Console.ReadLine());
+        PointsArray[1] = _threePointers;
 
-        int pointsScored = basketBallPoints(pointsarray);
+        var pointsScored = BasketBallPoints(PointsArray);
 
         Console.WriteLine($"Your scored points is {pointsScored}");
     }
 
-    private static int basketBallPoints(int[] points)
+    private static int BasketBallPoints(int[] points)
     {
         var threePoints = 3;
         var twoPoints = 2;
