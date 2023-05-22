@@ -1,0 +1,15 @@
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Basketball Points\BaskPoints\BaskPoints\bin\Debug\net6.0\BaskPoints.exe
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Basketball Points\BaskPoints\BaskPoints\bin\Debug\net6.0\BaskPoints.deps.json
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Basketball Points\BaskPoints\BaskPoints\bin\Debug\net6.0\BaskPoints.runtimeconfig.json
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Basketball Points\BaskPoints\BaskPoints\bin\Debug\net6.0\BaskPoints.dll
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Basketball Points\BaskPoints\BaskPoints\bin\Debug\net6.0\BaskPoints.pdb
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Basketball Points\BaskPoints\BaskPoints\obj\Debug\net6.0\BaskPoints.csproj.AssemblyReference.cache
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Basketball Points\BaskPoints\BaskPoints\obj\Debug\net6.0\BaskPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Basketball Points\BaskPoints\BaskPoints\obj\Debug\net6.0\BaskPoints.AssemblyInfoInputs.cache
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Basketball Points\BaskPoints\BaskPoints\obj\Debug\net6.0\BaskPoints.AssemblyInfo.cs
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Basketball Points\BaskPoints\BaskPoints\obj\Debug\net6.0\BaskPoints.csproj.CoreCompileInputs.cache
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Basketball Points\BaskPoints\BaskPoints\obj\Debug\net6.0\BaskPoints.dll
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Basketball Points\BaskPoints\BaskPoints\obj\Debug\net6.0\refint\BaskPoints.dll
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Basketball Points\BaskPoints\BaskPoints\obj\Debug\net6.0\BaskPoints.pdb
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Basketball Points\BaskPoints\BaskPoints\obj\Debug\net6.0\BaskPoints.genruntimeconfig.cache
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Basketball Points\BaskPoints\BaskPoints\obj\Debug\net6.0\ref\BaskPoints.dll
