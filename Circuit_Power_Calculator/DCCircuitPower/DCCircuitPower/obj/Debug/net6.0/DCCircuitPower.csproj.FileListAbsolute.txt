@@ -1,0 +1,15 @@
+D:\Development\Eduvos\C-sharp Exercises\Circuit_Power_Calculator\DCCircuitPower\DCCircuitPower\bin\Debug\net6.0\DCCircuitPower.exe
+D:\Development\Eduvos\C-sharp Exercises\Circuit_Power_Calculator\DCCircuitPower\DCCircuitPower\bin\Debug\net6.0\DCCircuitPower.deps.json
+D:\Development\Eduvos\C-sharp Exercises\Circuit_Power_Calculator\DCCircuitPower\DCCircuitPower\bin\Debug\net6.0\DCCircuitPower.runtimeconfig.json
+D:\Development\Eduvos\C-sharp Exercises\Circuit_Power_Calculator\DCCircuitPower\DCCircuitPower\bin\Debug\net6.0\DCCircuitPower.dll
+D:\Development\Eduvos\C-sharp Exercises\Circuit_Power_Calculator\DCCircuitPower\DCCircuitPower\bin\Debug\net6.0\DCCircuitPower.pdb
+D:\Development\Eduvos\C-sharp Exercises\Circuit_Power_Calculator\DCCircuitPower\DCCircuitPower\obj\Debug\net6.0\DCCircuitPower.csproj.AssemblyReference.cache
+D:\Development\Eduvos\C-sharp Exercises\Circuit_Power_Calculator\DCCircuitPower\DCCircuitPower\obj\Debug\net6.0\DCCircuitPower.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Eduvos\C-sharp Exercises\Circuit_Power_Calculator\DCCircuitPower\DCCircuitPower\obj\Debug\net6.0\DCCircuitPower.AssemblyInfoInputs.cache
+D:\Development\Eduvos\C-sharp Exercises\Circuit_Power_Calculator\DCCircuitPower\DCCircuitPower\obj\Debug\net6.0\DCCircuitPower.AssemblyInfo.cs
+D:\Development\Eduvos\C-sharp Exercises\Circuit_Power_Calculator\DCCircuitPower\DCCircuitPower\obj\Debug\net6.0\DCCircuitPower.csproj.CoreCompileInputs.cache
+D:\Development\Eduvos\C-sharp Exercises\Circuit_Power_Calculator\DCCircuitPower\DCCircuitPower\obj\Debug\net6.0\DCCircuitPower.dll
+D:\Development\Eduvos\C-sharp Exercises\Circuit_Power_Calculator\DCCircuitPower\DCCircuitPower\obj\Debug\net6.0\refint\DCCircuitPower.dll
+D:\Development\Eduvos\C-sharp Exercises\Circuit_Power_Calculator\DCCircuitPower\DCCircuitPower\obj\Debug\net6.0\DCCircuitPower.pdb
+D:\Development\Eduvos\C-sharp Exercises\Circuit_Power_Calculator\DCCircuitPower\DCCircuitPower\obj\Debug\net6.0\DCCircuitPower.genruntimeconfig.cache
+D:\Development\Eduvos\C-sharp Exercises\Circuit_Power_Calculator\DCCircuitPower\DCCircuitPower\obj\Debug\net6.0\ref\DCCircuitPower.dll
