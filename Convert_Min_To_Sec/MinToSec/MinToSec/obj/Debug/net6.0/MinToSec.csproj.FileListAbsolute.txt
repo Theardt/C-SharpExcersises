@@ -1,0 +1,15 @@
+D:\Development\Eduvos\C-sharp Exercises\Convert_Min_To_Sec\MinToSec\MinToSec\bin\Debug\net6.0\MinToSec.exe
+D:\Development\Eduvos\C-sharp Exercises\Convert_Min_To_Sec\MinToSec\MinToSec\bin\Debug\net6.0\MinToSec.deps.json
+D:\Development\Eduvos\C-sharp Exercises\Convert_Min_To_Sec\MinToSec\MinToSec\bin\Debug\net6.0\MinToSec.runtimeconfig.json
+D:\Development\Eduvos\C-sharp Exercises\Convert_Min_To_Sec\MinToSec\MinToSec\bin\Debug\net6.0\MinToSec.dll
+D:\Development\Eduvos\C-sharp Exercises\Convert_Min_To_Sec\MinToSec\MinToSec\bin\Debug\net6.0\MinToSec.pdb
+D:\Development\Eduvos\C-sharp Exercises\Convert_Min_To_Sec\MinToSec\MinToSec\obj\Debug\net6.0\MinToSec.csproj.AssemblyReference.cache
+D:\Development\Eduvos\C-sharp Exercises\Convert_Min_To_Sec\MinToSec\MinToSec\obj\Debug\net6.0\MinToSec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Eduvos\C-sharp Exercises\Convert_Min_To_Sec\MinToSec\MinToSec\obj\Debug\net6.0\MinToSec.AssemblyInfoInputs.cache
+D:\Development\Eduvos\C-sharp Exercises\Convert_Min_To_Sec\MinToSec\MinToSec\obj\Debug\net6.0\MinToSec.AssemblyInfo.cs
+D:\Development\Eduvos\C-sharp Exercises\Convert_Min_To_Sec\MinToSec\MinToSec\obj\Debug\net6.0\MinToSec.csproj.CoreCompileInputs.cache
+D:\Development\Eduvos\C-sharp Exercises\Convert_Min_To_Sec\MinToSec\MinToSec\obj\Debug\net6.0\MinToSec.dll
+D:\Development\Eduvos\C-sharp Exercises\Convert_Min_To_Sec\MinToSec\MinToSec\obj\Debug\net6.0\refint\MinToSec.dll
+D:\Development\Eduvos\C-sharp Exercises\Convert_Min_To_Sec\MinToSec\MinToSec\obj\Debug\net6.0\MinToSec.pdb
+D:\Development\Eduvos\C-sharp Exercises\Convert_Min_To_Sec\MinToSec\MinToSec\obj\Debug\net6.0\MinToSec.genruntimeconfig.cache
+D:\Development\Eduvos\C-sharp Exercises\Convert_Min_To_Sec\MinToSec\MinToSec\obj\Debug\net6.0\ref\MinToSec.dll
