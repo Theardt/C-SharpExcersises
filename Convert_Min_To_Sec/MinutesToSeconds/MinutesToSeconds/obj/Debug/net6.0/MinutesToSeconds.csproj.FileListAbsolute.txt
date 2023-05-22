@@ -1,0 +1,15 @@
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Min_To_Sec\MinutesToSeconds\MinutesToSeconds\bin\Debug\net6.0\MinutesToSeconds.exe
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Min_To_Sec\MinutesToSeconds\MinutesToSeconds\bin\Debug\net6.0\MinutesToSeconds.deps.json
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Min_To_Sec\MinutesToSeconds\MinutesToSeconds\bin\Debug\net6.0\MinutesToSeconds.runtimeconfig.json
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Min_To_Sec\MinutesToSeconds\MinutesToSeconds\bin\Debug\net6.0\MinutesToSeconds.dll
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Min_To_Sec\MinutesToSeconds\MinutesToSeconds\bin\Debug\net6.0\MinutesToSeconds.pdb
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Min_To_Sec\MinutesToSeconds\MinutesToSeconds\obj\Debug\net6.0\MinutesToSeconds.csproj.AssemblyReference.cache
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Min_To_Sec\MinutesToSeconds\MinutesToSeconds\obj\Debug\net6.0\MinutesToSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Min_To_Sec\MinutesToSeconds\MinutesToSeconds\obj\Debug\net6.0\MinutesToSeconds.AssemblyInfoInputs.cache
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Min_To_Sec\MinutesToSeconds\MinutesToSeconds\obj\Debug\net6.0\MinutesToSeconds.AssemblyInfo.cs
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Min_To_Sec\MinutesToSeconds\MinutesToSeconds\obj\Debug\net6.0\MinutesToSeconds.csproj.CoreCompileInputs.cache
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Min_To_Sec\MinutesToSeconds\MinutesToSeconds\obj\Debug\net6.0\MinutesToSeconds.dll
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Min_To_Sec\MinutesToSeconds\MinutesToSeconds\obj\Debug\net6.0\refint\MinutesToSeconds.dll
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Min_To_Sec\MinutesToSeconds\MinutesToSeconds\obj\Debug\net6.0\MinutesToSeconds.pdb
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Min_To_Sec\MinutesToSeconds\MinutesToSeconds\obj\Debug\net6.0\MinutesToSeconds.genruntimeconfig.cache
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Min_To_Sec\MinutesToSeconds\MinutesToSeconds\obj\Debug\net6.0\ref\MinutesToSeconds.dll
