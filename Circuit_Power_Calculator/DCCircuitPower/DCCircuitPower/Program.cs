@@ -21,10 +21,10 @@
         Console.WriteLine($"Your total circuit power is {circuitPower}");
     }
 
-    private static int CircuitPower(int[] points)
+    private static int CircuitPower(int[] circuits)
     {
 
-        var totalCircuitPower = points[0]*points[1];
+        var totalCircuitPower = circuits[0]* circuits[1];
 
         return totalCircuitPower;
     }
