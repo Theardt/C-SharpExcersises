@@ -1,4 +1,4 @@
-﻿public abstract class DCBasketBallPoints
+﻿public abstract class DCCircuitPower
 {
     private static readonly int[] CircuitArray = new int[2];
     private static int _voltage;
@@ -16,12 +16,12 @@
         _current = Convert.ToInt32(Console.ReadLine());
         CircuitArray[1] = _current;
 
-        var circuitPower = BasketBallPoints(CircuitArray);
+        var circuitPower = CircuitPower(CircuitArray);
 
         Console.WriteLine($"Your total circuit power is {circuitPower}");
     }
 
-    private static int BasketBallPoints(int[] points)
+    private static int CircuitPower(int[] points)
     {
 
         var totalCircuitPower = points[0]*points[1];
