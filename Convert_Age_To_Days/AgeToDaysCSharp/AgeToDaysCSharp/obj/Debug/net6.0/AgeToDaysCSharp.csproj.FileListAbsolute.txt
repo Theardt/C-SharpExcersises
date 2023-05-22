@@ -1,0 +1,15 @@
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Age_To_Days\AgeToDaysCSharp\AgeToDaysCSharp\obj\Debug\net6.0\AgeToDaysCSharp.csproj.AssemblyReference.cache
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Age_To_Days\AgeToDaysCSharp\AgeToDaysCSharp\obj\Debug\net6.0\AgeToDaysCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Age_To_Days\AgeToDaysCSharp\AgeToDaysCSharp\obj\Debug\net6.0\AgeToDaysCSharp.AssemblyInfoInputs.cache
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Age_To_Days\AgeToDaysCSharp\AgeToDaysCSharp\obj\Debug\net6.0\AgeToDaysCSharp.AssemblyInfo.cs
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Age_To_Days\AgeToDaysCSharp\AgeToDaysCSharp\obj\Debug\net6.0\AgeToDaysCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Age_To_Days\AgeToDaysCSharp\AgeToDaysCSharp\bin\Debug\net6.0\AgeToDaysCSharp.exe
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Age_To_Days\AgeToDaysCSharp\AgeToDaysCSharp\bin\Debug\net6.0\AgeToDaysCSharp.deps.json
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Age_To_Days\AgeToDaysCSharp\AgeToDaysCSharp\bin\Debug\net6.0\AgeToDaysCSharp.runtimeconfig.json
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Age_To_Days\AgeToDaysCSharp\AgeToDaysCSharp\bin\Debug\net6.0\AgeToDaysCSharp.dll
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Age_To_Days\AgeToDaysCSharp\AgeToDaysCSharp\bin\Debug\net6.0\AgeToDaysCSharp.pdb
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Age_To_Days\AgeToDaysCSharp\AgeToDaysCSharp\obj\Debug\net6.0\AgeToDaysCSharp.dll
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Age_To_Days\AgeToDaysCSharp\AgeToDaysCSharp\obj\Debug\net6.0\refint\AgeToDaysCSharp.dll
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Age_To_Days\AgeToDaysCSharp\AgeToDaysCSharp\obj\Debug\net6.0\AgeToDaysCSharp.pdb
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Age_To_Days\AgeToDaysCSharp\AgeToDaysCSharp\obj\Debug\net6.0\AgeToDaysCSharp.genruntimeconfig.cache
+C:\Users\Theardt\Documents\Development\C#\C-SharpExcersises\Convert_Age_To_Days\AgeToDaysCSharp\AgeToDaysCSharp\obj\Debug\net6.0\ref\AgeToDaysCSharp.dll
